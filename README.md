@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=EDEDED&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Frontend+Developer;Building+things+for+the+web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=EDEDED&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+HaikalFadhilah+%F0%9F%91%8B;Frontend+Developer;Building+things+for+the+web" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 About
 
-- 🔭 Currently building **[Your Current Project / Company]**
+- 🔭 Currently building **DuitTrack**
 - 💬 Ask me about **React, TypeScript, Frontend Architecture**
 - 📍 Based in **Tangerang Selatan**
 
