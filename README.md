@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 About
 
-- 🔭 Currently building **DuitTrack**
+- 🔭 Currently building **RuangKetua**
 - 💬 Ask me about **React, TypeScript, Frontend Architecture**
 - 📍 Based in **Tangerang Selatan**
 
